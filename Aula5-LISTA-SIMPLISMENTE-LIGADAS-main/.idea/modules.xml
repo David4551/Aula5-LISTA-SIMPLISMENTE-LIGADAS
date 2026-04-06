@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/Aula5-LISTA-SIMPLISMENTE-LIGADAS-main.iml" filepath="$PROJECT_DIR$/Aula5-LISTA-SIMPLISMENTE-LIGADAS-main.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/ListaSimplesmenteLigada.iml" filepath="$PROJECT_DIR$/ListaSimplesmenteLigada.iml" />
+>>>>>>> 41fdac21fea3d9437caffd55030cfde19d1780c0
+    </modules>
+  </component>
+</project>
